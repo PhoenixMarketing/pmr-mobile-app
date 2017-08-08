@@ -1,0 +1,3 @@
+rootProject.name = 'pmr'
+
+include ':app'
